@@ -78,3 +78,44 @@
 ```
 * Maka hasilnya akan seperti berikut.
 ![image](img/Image.png)
+
+## Langkah 6
+* Menambahkan _hyperlink_
+```html
+<!-- menambahkan link navigasi -->
+    <nav>
+        <a href="Lab1_tag_dasar.html">Dasar HTML</a>
+        <a href="lab1_halaman2.html">Halaman 2</a>
+        <a href="https://github.com/ranggaganteng28">My Repository</a>
+      </nav>
+      <hr>
+```
+* Maka hasilnya akan seperti berikut.
+![hyper_link](img/link.png)
+
+* Kemudian kita membuat lab1_halaman2.html
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Halaman 2</title>
+</head>
+<body>
+
+<h2>Ini adalah halaman 2</h2>
+<h3>Apa Itu HTML? </h3>
+
+<p> Hypertext Markup Language atau HTML adalah bahasa markup yang digunakan untuk membuat struktur halaman website. 
+    HTML terdiri dari kombinasi teks dan simbol yang disimpan dalam sebuah file. Dalam membuat file HTML, terdapat standar atau format khusus yang harus diikuti. Format tersebut telah tertuang dalam standar kode internasional atau ASCII (American Standard Code for Information Interchange). 
+    Dengan adanya HTML, pengguna dapat membuat atau menyusun heading, paragraf, gambar, link, dan lainnya supaya dapat dilihat banyak orang melalui halaman website. 
+</body>
+</html>
+```
+
+* Maka hasilnya akan seperti berikut.
+![Hyper_link2](img/halam2.png)
+
