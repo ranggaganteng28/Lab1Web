@@ -53,3 +53,17 @@
 
 * Maka hasilnya akan seperti berikut.
 ![heading](img/judul.png)
+
+## Langkah 4
+* Memformat Teks
+
+| Tag | Fungsi |
+| -------- | --- |
+| `<span style="background-color: yellow;>` | Menyisipkan sesuatu yang khusus, lalu atribut style menambahkan style pada sesuatu tersebut. |
+| `<b>` | Membuat teks **bold** |
+| `<i>` | Membuat teks _italic_ |
+| `<u>` | Membuat teks underline |
+
+* Maka hasilnya akan seperti berikut.
+![format_text](img/format_text.png)
+
