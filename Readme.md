@@ -67,3 +67,14 @@
 * Maka hasilnya akan seperti berikut.
 ![format_text](img/format_text.png)
 
+## Langkah 5
+* Menyisipkan Gambar
+```html
+<!-- sub judul paragraf -->
+<h3>Menambahkan Gambar</h3>
+
+<!-- menambahkan gambar pada dokumen -->
+<img src="img/profile.png" title="Gambar Profile">
+```
+* Maka hasilnya akan seperti berikut.
+![image](img/Logo_UPB.png)
