@@ -41,3 +41,15 @@
 * Maka hasilnya akan seperti berikut.
 ![paragraf](img/paragraf.png)
 
+## Langkah 3
+* Menambahkan judul menggunakan Tag Heading
+```html
+<!-- judul paragraf pertama -->
+<h1>Belajar Dasar HTML</h1>
+
+<!-- judul paragraf kedua -->
+<h2>Paragraf pada HTML</h2>
+```
+
+* Maka hasilnya akan seperti berikut.
+![heading](img/judul.png)
