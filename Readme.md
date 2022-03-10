@@ -74,7 +74,7 @@
 <h3>Menambahkan Gambar</h3>
 
 <!-- menambahkan gambar pada dokumen -->
-<img src="img/profile.png" width="wide" title="Gambar Profile">
+<img src="Logo_UPB.png" width="200" title="Logo Univeritas Pelita Bangsa">
 ```
 * Maka hasilnya akan seperti berikut.
 ![image](img/Image.png)
